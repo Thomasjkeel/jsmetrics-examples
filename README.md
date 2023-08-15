@@ -1,6 +1,6 @@
 # jsmetrics-examples
 
-This repo contains a few simple notebooks containing use cases for the jsmetrics python module.
+This repo contains a few simple notebooks containing use cases for the [jsmetrics](https://github.com/Thomasjkeel/jsmetrics) python module.
 
 ### To use...
 
